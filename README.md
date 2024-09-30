@@ -1,4 +1,11 @@
 # EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM AND DISPLAY STRING
+Name : Kaviya D
+
+
+Roll no : 212223040089
+
+
+Date of experiment : 9/09/2024 
 
 
  ## Aim: To Interface a 16X2 LCD display to ARM controller  , and simulate it in Proteus 
